@@ -12,3 +12,4 @@
 /Users/emrahelis/Hata-ExceptionYonetimi5/obj/Debug/net8.0/Hata-ExceptionYonetimi5.pdb
 /Users/emrahelis/Hata-ExceptionYonetimi5/obj/Debug/net8.0/Hata-ExceptionYonetimi5.genruntimeconfig.cache
 /Users/emrahelis/Hata-ExceptionYonetimi5/obj/Debug/net8.0/ref/Hata-ExceptionYonetimi5.dll
+/Users/emrahelis/Hata-ExceptionYonetimi5/obj/Debug/net8.0/Hata-ExceptionYonetimi5.sourcelink.json
